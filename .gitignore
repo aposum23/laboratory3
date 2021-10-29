@@ -5,8 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-*.swp
 # Distribution / packaging
+*.swp
 .Python
 build/
 develop-eggs/
